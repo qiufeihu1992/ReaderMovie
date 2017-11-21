@@ -1,0 +1,10 @@
+<!-- wxml 是编写小程序的骨架文件-->
+<!--<div>-->
+
+<view class="container">
+  <image class="user-avatar" src="/images/IMG_5403.JPG"></image>
+  <text class="user-name"><text style="color:red">Hello</text></text>
+  <view class="moto-container">
+    <text class="moto">开启小程序</text>
+  </view>
+</view>
